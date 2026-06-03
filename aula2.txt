@@ -1,0 +1,7 @@
+Curso JS - Rafaella Ballerini
+
+Esse script.js é o resultado do desafio proposto por Rafaella Ballerini na aula 2 do curso de JavaScript.
+
+Ao final do vídeo com código pronto ela sugeriu que poderiamos comentar nas linhas de código oque cada comando faz.
+
+29/05/26 
