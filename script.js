@@ -3,7 +3,6 @@ function adicionarTarefa() {
 
     let inputTarefa = document.getElementById("inputTarefa");
     const tarefa = inputTarefa.value.trim();
-
     let mensagem = document.getElementById("mensagem");
 
     if (tarefa === "") {
@@ -20,8 +19,6 @@ function adicionarTarefa() {
 
     }
 }
-
-
 
 function renderizarTarefas() {
     const listaTarefas = document.getElementById("listaTarefas");
@@ -47,8 +44,8 @@ function renderizarTarefas() {
 
         }
 
-    
         let botaoLimpar = document.querySelector("button.botao-lista");
+        
         if (tarefas.length > 0) {
             botaoLimpar.style.display = "inline-block";
     } else {
